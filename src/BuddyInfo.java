@@ -3,6 +3,7 @@ public class BuddyInfo {
 	private String name;
 	private String address;
 	private long phoneNumber;
+	//testing the pull from lab 3 point 24
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
