@@ -28,5 +28,9 @@ public class AddressBook {
 		book.remove(friend.getName());
 		
 	}
+	
+	public void imabuddy() {
+		
+	}
 
 }
