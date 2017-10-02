@@ -34,7 +34,7 @@ public class AddressBook {
 	}
 	
 	public void blockedFriends() {
-		
+		//rfel
 	}
 
 }
