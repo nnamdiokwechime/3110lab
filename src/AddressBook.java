@@ -32,5 +32,9 @@ public class AddressBook {
 	public void imabuddy() {
 		
 	}
+	
+	public void blockedFriends() {
+		
+	}
 
 }
